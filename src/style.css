@@ -105,7 +105,7 @@ MAIN SECTION
   /* border: 3px solid var(--Strongcyan); */
 }
 .person {
-  background: var(--Verylightgrayishcyan) url(./images/icon-person.svg)
+  background: var(--Verylightgrayishcyan) url(./assets/images/icon-person.svg)
     no-repeat 3% 50%;
   width: 100%;
   text-align: right;
